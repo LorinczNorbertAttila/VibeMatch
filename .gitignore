@@ -1,3 +1,6 @@
 .github
 dataset.csv
 result.csv
+spotify_albums.csv
+spotify_artists.csv
+spotify_tracks.csv
